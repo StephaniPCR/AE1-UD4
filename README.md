@@ -14,6 +14,6 @@ Al tener todos los datos definidos dentro del código y no necesitar ningún val
 <h2>Modificaciones realizadas:</h2>
 <p>En la refactorización del código se han observado repeticiones innecesarias de algunos procedimiento. Uso de variables extra que no aportaban valor significativo al código, por lo que se ha decidido comentar el código sobrante de nuestro programa.</p>
 <h2>URL de lla documentación (javadoc)</h2> 
-<a href:"file:///C:/Users/steph/eclipse-workspace/HolaMundo/doc/HolaMundo/module-summary.html"></a>
+<a href:"file:///C:/Users/steph/eclipse-workspace/HolaMundo/doc/HolaMundo/module-summary.html">JavaDoc</a>
 ## Autor
 StephaniPCR
