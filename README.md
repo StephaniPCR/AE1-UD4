@@ -13,7 +13,7 @@ La clase CalculoMedia nos ofrece una solución para un análisis completo a un c
 Al tener todos los datos definidos dentro del código y no necesitar ningún valor proporcionado por el usuario externo, podremos ejecutar directamente el código.
 <h2>Modificaciones realizadas:</h2>
 <p>En la refactorización del código se han observado repeticiones innecesarias de algunos procedimiento. Uso de variables extra que no aportaban valor significativo al código, por lo que se ha decidido comentar el código sobrante de nuestro programa.</p>
-<h2>URL de lla documentación (javadoc)</h2> 
-<a href:"file:///C:/Users/steph/eclipse-workspace/HolaMundo/doc/HolaMundo/module-summary.html">JavaDoc</a>
+<h2>URL de la documentación (javadoc)</h2> 
+file:///C:/Users/steph/eclipse-workspace/HolaMundo/doc/HolaMundo/module-summary.html
 ## Autor
 StephaniPCR
